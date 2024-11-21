@@ -1,25 +1,9 @@
-# key-generator
+pc1bwqdg6squsna38e46795a
+t95yu9atm8azzmyvckulcc7kytlcc
+kxswvvzej
 
-## Project setup
-Requirements: Node v16
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
